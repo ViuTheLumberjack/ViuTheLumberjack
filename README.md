@@ -1,4 +1,4 @@
-#### Hello There 👋, I’m currently working on my personal website and learning Rust!
+## Hello There 👋, I’m currently working on my personal website and learning Rust!
 
 <img src="https://thumbs.gfycat.com/BeneficialAmbitiousCentipede-size_restricted.gif" alt="I need new image" width="100%">
 
