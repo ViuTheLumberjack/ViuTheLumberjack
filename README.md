@@ -1,6 +1,6 @@
-<img src="https://thumbs.gfycat.com/BeneficialAmbitiousCentipede-size_restricted.gif" alt="I need new image" width="100%">
+#### Hello There 👋, I’m currently working on my personal website and learning Rust!
 
-🔭 I’m currently working on my personal website and learning Rust!
+<img src="https://thumbs.gfycat.com/BeneficialAmbitiousCentipede-size_restricted.gif" alt="I need new image" width="100%">
 
 <!--
 **silviu48/silviu48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
